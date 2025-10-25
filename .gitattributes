@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.resS filter=lfs diff=lfs merge=lfs -text
+*.bundle filter=lfs diff=lfs merge=lfs -text
+*.asset filter=lfs diff=lfs merge=lfs -text
